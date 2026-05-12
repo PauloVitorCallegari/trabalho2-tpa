@@ -184,4 +184,4 @@ Trabalho desenvolvido para a disciplina de **Técnicas de Programação Avançad
 
 ## 🏫 Instituição
 
-Curso de Ciência da Computação — Trabalho 2 de TPA
+IFES Serra — Trabalho 2 de TPA
